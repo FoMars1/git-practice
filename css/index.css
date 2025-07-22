@@ -1,9 +1,12 @@
-h1{
+h4{
     color: brown;
     font-size: 100px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 body{
-    background-color: antiquewhite;
+    background-color: rgb(199, 255, 252);
+}
+p{
+    font-family: cursive;
 }
